@@ -1,6 +1,6 @@
-# WEPS_2
+# WISPPRH
 
-Website available at this url: [https://weps-womeninecon.github.io/Webpage/](https://weps-womeninecon.github.io/Webpage/)
+Website available at this url: [https://elasskenza.github.io/WISPPRH/](https://elasskenza.github.io/WISPPRH/)
 
 # Structure
 
