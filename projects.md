@@ -1,8 +1,8 @@
 ---
 title: Newsletters
 layout: collection
-permalink: /newsletters/
-collection: newsletters
+permalink: /projetcs/
+collection: projects
 entries_layout: grid
 ---
 
