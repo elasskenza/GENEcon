@@ -11,8 +11,15 @@ elements:
   - markup  
 ---
 
-<i class="fa fa-envelope"></i> Don't hesitate to contact us at **[womeninecon.paris.saclay@gmail.com](mailto:womeninecon.paris.saclay@gmail.com)**
+<i class="fa fa-envelope"></i> Don't hesitate to contact us at **[socialpolicy.wispprh@lse.ac.uk](mailto:socialpolicy.wispprh@lse.ac.uk)**
 
-🔔 **[Subscribe here](https://docs.google.com/forms/d/e/1FAIpQLSeGiRvHdq-_eL7PFWXI0oLYUMBkaFyGqTRAAOTwU-b3aM3PBg/viewform)** to the mailing list if you haven’t yet
+🔔 **[Subscribe here]()** to the mailing list if you haven’t yet
 
-Share to your friends and colleagues and contact us if you have any question !
+Share with your friends and colleagues and contact us if you have any questions!
+
+
+## Office address
+
+| <img src="https://github.com/elasskenza/WISPPRH/main/assets/img/lse.png?raw=true" width="130" height="100">  |
+|:---------------------------------------------------------------------------------------------------------:| 
+|  _Department of Social Policy, 2nd Floor, Old Building <br />  London School of Economics and Political Science <br />  Houghton Street    <br /> London, WC2A 2AE_  |
