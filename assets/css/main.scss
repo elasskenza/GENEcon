@@ -1,0 +1,21 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+
+element.style {
+}
+.page-image img {
+    width: 50%;
+}
+
+.align-left, a img.align-left {
+    margin-right: 2rem;
+    margin-bottom: 1rem;
+    float: left;
+}
+
+@charset "utf-8";
+
+@import "so-simple";
