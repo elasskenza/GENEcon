@@ -24,7 +24,7 @@ twitter_username: WISPPRH
 
 baseurl: # the subpath of your site, e.g. "/blog"
 url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo:  "/assets/logo_1.png"
+logo:  "/assets/img/logo_1.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
@@ -113,7 +113,7 @@ defaults:
 
 author:
   name   : "WISPPRH"
-  avatar :  "/assets/logo_1.png"
+  avatar :  "/assets/img/logo_1.png"
   bio    : "**Women in Social and Public Policy Research Hub**. Academic initiative to gather researchers working on social and public policies that improve women’s outcomes and reduce inequalities."
   location : "France"
   links:
