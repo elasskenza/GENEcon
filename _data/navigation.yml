@@ -2,10 +2,10 @@
 
 - title: Home
   url: /
-- title: We are WEPS
-  url: /weareweps/
-- title: Newsletters
-  url: /newsletters/
+- title: About us
+  url: /aboutus/
+- title: Projects
+  url: /projects/
 - title: Events 
   url: /events/    
 - title: Members
