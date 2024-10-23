@@ -1,5 +1,4 @@
 ---
-title: Newsletters
 layout: collection
 permalink: /projetcs/
 collection: projects
