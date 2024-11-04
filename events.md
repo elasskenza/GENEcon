@@ -10,7 +10,7 @@ elements:
   - markup  
 ---
 
-# Last event -  Women in the Workplace
+## Last event -  Women in the Workplace
 
 ![Speakers and Chair](https://github.com/elasskenza/GENEcon/blob/main/assets/img/last_year_event.png)
 
@@ -29,7 +29,7 @@ In this engaging and insightful public forum, distinguished researchers and stak
 
 [Watch the Policy Panel Video](https://www.youtube.com/watch?v=i6bfPRIth1o)
 
-## Last Year’s Event Highlights
+### Last Year’s Event Highlights
 
 Last year’s event focused on topics including:
 - **Sexual Harassment:** Featured talks by Margaux, Anne Boring, Johanna Rickne, Sonia Bhalotra, and Karmini Sharma.
