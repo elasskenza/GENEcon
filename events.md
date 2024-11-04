@@ -17,7 +17,7 @@ elements:
 
 # Last event -  Women in the Workplace
 
-![Speakers and Chair](https://github.com/elasskenza/GENEcon/blob/main/assets/img/last_year_event.jpg)
+![Speakers and Chair](https://github.com/elasskenza/GENEcon/blob/main/assets/img/last_year_event.png)
 
 **Hosted by the Department of Social Policy and the Women in Social and Public Policy Research Hub**  
 **Date:** 13 March 2024
