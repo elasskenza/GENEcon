@@ -8,20 +8,20 @@
 @import "so-simple/notices";
 
 /* Colors */
-$base-color: #000 !default;
-$text-color: #000 !default;
-$accent-color: #34374C !default;
+$base-color: #86424F !default;  /* Updated with the deep maroon */
+$text-color: #404040 !default;
+$accent-color: #823C49 !default;  /* Muted maroon as accent color */
 $nav-color: #fff !default;
-$background-color: #fff !default;
-$nav-background-color: #000 !default;
+$background-color: #f9f9f9 !default;  /* Light background to contrast maroon */
+$nav-background-color: #874451 !default;  /* Rich maroon for navigation */
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
 
-$primary-color: #000 !default;
-$success-color: #62c462 !default;
-$warning-color: #f89406 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #52adc8 !default;
+$primary-color: #F7F4F3 !default;  /* Keep white for primary elements */
+$success-color: #5B2333 !default;
+$warning-color: #564D4A !default;
+$danger-color: #F24333 !default;
+$info-color: #BA1B1D !default;
 
 /* Syntax highlighting (base16) colors */
 $base00: #fafafa !default;
