@@ -24,3 +24,18 @@ element.style {
     font-family: "Playfair Display", serif !important;
 }
 
+/* Colors */
+$base-color: #86424F !default;  /* Deep maroon */
+$text-color: #404040 !default;
+$accent-color: #823C49 !default;  /* Muted maroon */
+$nav-color: #fff !default;
+$background-color: #f9f9f9 !default;  /* Light background */
+$nav-background-color: #874451 !default;  /* Rich maroon for navigation */
+$code-background-color: tint($base-color, 95%) !default;
+$border-color: tint($base-color, 80%) !default;
+
+$primary-color: #F7F4F3 !default;  /* Primary elements in white */
+$success-color: #5B2333 !default;
+$warning-color: #564D4A !default;
+$danger-color: #F24333 !default;
+$info-color: #BA1B1D !default;
