@@ -10,8 +10,10 @@ elements:
   - markup  
 ---
 
+    <h1>Welcome to the GENEcon Network</h1>
 
-> The Women in Social and Public Policy Research Hub (WISPPRH) at the Department of Social Policy, LSE,  informs social and public policies that improve women’s outcomes and reduce inequalities. We bring together scholars carrying out research on the causes and consequences of gender inequality in education, labour markets and the family. 
+> The <strong>GENEcon Network</strong> is a collaborative initiative aimed at bringing together scholars who are committed to advancing the field of <strong>gender economics</strong>. Our mission is to foster research that improves <strong>women’s outcomes</strong> and works toward the <strong>reduction of inequalities</strong> in society.
+> We unite researchers investigating the origins and impacts of <strong>gender inequality</strong> in key areas such as <strong>education, labor markets, and family dynamics</strong>.
 
 > Our evidence-based research takes on a broad perspective on women’s outcomes and focuses on how gender influences individuals’ opportunities across different life course stages and their well-being. We pay specific attention to local contexts and social and public policy environments while addressing these issues around the World. 
 
