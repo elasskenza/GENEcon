@@ -142,4 +142,6 @@ footer:
       icon: "fa-solid fa-scroll"
       url: ""      
   
+sass:
+  style: compressed
 
