@@ -19,13 +19,13 @@ For now, our network brings together researchers from [WISPPRH at the London Sch
 
 ### Professor Almudena Sevilla
 
-![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/almudena_sevilla.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 40%;"}
+![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/almudena_sevilla.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 30%;"}
 Almudena Sevilla is a Professor of Economic and Social Policy in LSE's Department of Social Policy and serves as the Founding Chair of both the Royal Economic Society’s UK Women in Economics Network and the LSE Women in Social and Public Policy Research Hub. Her past roles include positions at University College London, Queen Mary University, the University of Oxford, the University of Essex, and the Congressional Budget Office in Washington, DC. She earned her Ph.D. in family and population economics and econometrics from Brown University in 2004. Almudena has an established record of impactful research in gender economics.
 
 
 ### Doctor Margaux Suteau
 
-![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/margaux_suteau.jpeg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 40%;"}
+![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/margaux_suteau.jpeg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 35%;"}
 Margaux Suteau is a Fellow in the Department of Social Policy at the London School of Economics and Political Science and holds a Ph.D. in Economics from CY Cergy Paris University and ESSEC Business School. Her research focuses on gender inequalities in education and the labour market, with a particular interest in understanding why girls are underrepresented in STEM fields, especially in technology. She explores the role of norms and cultural factors in contributing to this gap and examines how beliefs about women and workplace conditions may partly explain the gender disparities seen in today’s labour  market.
 
 
