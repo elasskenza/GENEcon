@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Events"
 categories:
   - Markup
 elements:
