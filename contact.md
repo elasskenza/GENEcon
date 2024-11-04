@@ -19,6 +19,6 @@ Share with your friends and colleagues and contact us if you have any questions!
 
 ## Office address
 
-| <img src="https://github.com/elasskenza/GENEcon/main/assets/img/lse.png?raw=true" width="130" height="100">  |
+| <img src="https://github.com/elasskenza/GENEcon/blob/main/assets/img/lse.png?raw=true" width="130" height="100">  |
 |:---------------------------------------------------------------------------------------------------------:| 
 |  _Department of Social Policy, 2nd Floor, Old Building <br />  London School of Economics and Political Science <br />  Houghton Street    <br /> London, WC2A 2AE_  |
