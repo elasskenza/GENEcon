@@ -10,7 +10,7 @@ elements:
   - markup  
 ---
 
-![image-center]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/last_year_event.png' | absolute_url }}){: .align-right style="width: 40%;"}
+![image-center]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/last_year_event.png?raw=true.jpg' | absolute_url }}){: .align-right style="width: 40%;"}
 
 
 ## Last event - Women in the workplace
