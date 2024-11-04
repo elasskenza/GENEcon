@@ -17,9 +17,9 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
  
 skin: "/assets/css/skins/light.css"
 locale: en-US
-title: Women in Social and Public Policy Research Hub
+title: GENEcon Network
 email: socialpolicy.wispprh@lse.ac.uk
-description: Women in Social and Public Policy Research Hub. Academic initiative to gather researchers working on social and public policies that improve women’s outcomes and reduce inequalities.
+description: Gender and Economics Network. Academic initiative to gather researchers in Gender Economics, to improve women’s outcomes and reduce inequalities.
 twitter_username: WISPPRH
 
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -114,12 +114,12 @@ defaults:
 author:
   name   : "WISPPRH"
   avatar :  "/assets/img/logo_1.png"
-  bio    : "**Women in Social and Public Policy Research Hub**. Academic initiative to gather researchers working on social and public policies that improve women’s outcomes and reduce inequalities."
+  bio    : "**Gender and Economics Network**. Academic initiative to gather researchers in Gender Economics, to improve women’s outcomes and reduce inequalities."
   location : "France"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://elasskenza.github.io/WISPPRH/"
+      url: "https://elasskenza.github.io/GENEcon/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/WISPPRH"
