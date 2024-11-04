@@ -19,13 +19,13 @@ For now, our network brings together researchers from [WISPPRH at the London Sch
 
 ### Professor Almudena Sevilla
 
-![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/almudena_sevilla.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 30%;"}
+![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/almudena_sevilla.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 28%;"}
 Almudena Sevilla is a Professor of Economic and Social Policy in LSE's Department of Social Policy and serves as the Founding Chair of both the Royal Economic Society’s UK Women in Economics Network and the LSE Women in Social and Public Policy Research Hub. Her past roles include positions at University College London, Queen Mary University, the University of Oxford, the University of Essex, and the Congressional Budget Office in Washington, DC. She earned her Ph.D. in family and population economics and econometrics from Brown University in 2004. Almudena has an established record of impactful research in gender economics.
 
 
 ### Doctor Margaux Suteau
 
-![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/margaux_suteau.jpeg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 35%;"}
+![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/margaux_suteau.jpeg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 30%;"}
 Margaux Suteau is a Fellow in the Department of Social Policy at the London School of Economics and Political Science and holds a Ph.D. in Economics from CY Cergy Paris University and ESSEC Business School. Her research focuses on gender inequalities in education and the labour market, with a particular interest in understanding why girls are underrepresented in STEM fields, especially in technology. She explores the role of norms and cultural factors in contributing to this gap and examines how beliefs about women and workplace conditions may partly explain the gender disparities seen in today’s labour  market.
 
 
@@ -33,7 +33,7 @@ Margaux Suteau is a Fellow in the Department of Social Policy at the London Scho
 
 ### Professor Berkay Ozcan
 
-![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/berkay_ozcan.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 40%;"}
+![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/berkay_ozcan.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 30%;"}
 Berkay Özcan is a Professor of Social Research and Public Policy. He has also served as Professor of Social and Public Policy and Co-Director of the Women in Social and Public Policy Research Hub (WiSPPRH) at the London School of Economics. Before joining LSE in 2011, he was a postdoctoral researcher at Yale University and held visiting research positions at Princeton University (2006), the Institute of Social and Economic Research (ISER) at Essex University (2007), Nuffield College at the University of Oxford (2015), and University College London (2017 and 2023). He is also an external Research Fellow at the Centre for Research and Analysis of Migration (CReAM) at UCL. Özcan is a social demographer whose research examines family dynamics—such as divorce, marriage, and fertility—and their influence on child and economic outcomes for families. 
 
 
@@ -41,12 +41,12 @@ Berkay Özcan is a Professor of Social Research and Public Policy. He has also s
 
 ### Professor Paola Profeta 
 
-![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/paola_profeta.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 40%;"}
+![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/paola_profeta.jpg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 30%;"}
 Paola Profeta is the Dean for Diversity, Inclusion, and Sustainability and a Full Professor of Public Economics at Bocconi University. Her research specializes in gender economics, public economics, and political economy. She is the founder of the AXA Research Lab on Gender Equality, a dedicated research unit focused on studying gender equality in education, the labour market, and politics, as well as evaluating policies that promote gender equity and female leadership. She is an active member of Women in Economics (WinE) through the European Economic Association and serves on the Expert Forum of the European Institute for Gender Equality (EIGE). Additionally, Paola is a Research Associate at CHILD Collegio Carlo Alberto, a Research Affiliate at CESifo, and a Scientific Advisor for the UniCredit Foundation.
 
 
 ### Doctor Kenza Elass 
 
-![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/kenza_elass.jpeg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 40%;"}
+![image-right]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/kenza_elass.jpeg?raw=true.jpg' | absolute_url }}){: .align-right style="width: 30%;"}
 Kenza Elass is a Post-doctoral researcher in Applied Labour and Gender Economics at Bocconi University and the AXA Gender Lab. Her research spans applied labour, gender, digital, and urban economics, with a strong focus on using text analysis methods to gather new data. Her ongoing projects explore spatial disparities in gender wage gaps, gender differences in job searching, and the stereotypes associated with skills and artificial intelligence. Previously, she was a Ph.D. candidate at the Aix-Marseille School of Economics (AMSE) and the Labour Chair at the Paris School of Economics (PSE). She began her Ph.D. in 2019, researching the supply-side effects on gender wage inequality under the supervision of Cecilia Garcia-Peñalosa and Christian Schluter, and successfully defended her thesis in October 2023.
 
