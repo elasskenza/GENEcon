@@ -10,8 +10,6 @@ elements:
   - markup  
 ---
 
-## Welcome to the GENEcon Network
-
 > The <strong>GENEcon Network</strong> is a collaborative initiative aimed at bringing together scholars who are committed to advancing the field of <strong>gender economics</strong>. Our mission is to foster research that improves <strong>women’s outcomes</strong> and works toward the <strong>reduction of inequalities</strong> in society.
 
 > We unite researchers investigating the origins and impacts of <strong>gender inequality</strong> in key areas such as <strong>education, labor markets, and family dynamics</strong>.
