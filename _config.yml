@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
  
-skin: "/GENEcon/assets/css/skins/light.css"
+skin: "/assets/css/skins/light.css"
 locale: en-US
 title: GENEcon Network
 email: socialpolicy.wispprh@lse.ac.uk
@@ -33,7 +33,7 @@ mathjax:
   combo:  # "tex-svg" (default), "tex-mml-chtml", etc.: docs.mathjax.org/en/latest/web/components/combined.html
   tags:  # "none", "ams" (default), "all"
 google_fonts:
-  - name: "Source Sans Pro"
+  - name: "Playfair Display"
     weights: "400,400i,700,700i"
   - name: "Lora"
     weights: "400,400i,700,700i"
