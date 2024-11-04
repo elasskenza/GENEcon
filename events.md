@@ -10,9 +10,10 @@ elements:
   - markup  
 ---
 
-## Last event -  Women in the Workplace
+![image-center]({{ 'https://github.com/elasskenza/GENEcon/blob/main/assets/img/last_year_event.png' | absolute_url }}){: .align-right style="width: 40%;"}
 
-![Speakers and Chair](https://github.com/elasskenza/GENEcon/blob/main/assets/img/last_year_event.png)
+
+## Last event - Women in the workplace
 
 **Hosted by the Department of Social Policy and the Women in Social and Public Policy Research Hub**  
 **Date:** 13 March 2024
