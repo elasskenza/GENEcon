@@ -21,7 +21,7 @@ Our network brings together researchers from [WISPPRH at the London School of Ec
 {: .notice}
 
 
-* 📢 📣 **[Click here to see the summary of our last event]()** 📢 📣
+* 📢 📣 **[Click here to see the summary of our last event](https://elasskenza.github.io/GENEcon/events/)** 📢 📣
  
 
  
