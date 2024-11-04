@@ -12,16 +12,16 @@ $base-color: #86424F !default;  /* Updated with the deep maroon */
 $text-color: #404040 !default;
 $accent-color: #823C49 !default;  /* Muted maroon as accent color */
 $nav-color: #fff !default;
-$background-color: #F5F5F5 !default;  /* Light background to contrast maroon */
+$background-color: #f9f9f9 !default;  /* Light background to contrast maroon */
 $nav-background-color: #874451 !default;  /* Rich maroon for navigation */
 $code-background-color: tint($base-color, 95%) !default;
 $border-color: tint($base-color, 80%) !default;
 
-$primary-color: #ffffff !default;  /* Keep white for primary elements */
-$success-color: #c49dc9 !default;
-$warning-color: #e394c2 !default;
-$danger-color: #ff3b30 !default;
-$info-color: #5ac8fa !default;
+$primary-color: #F7F4F3 !default;  /* Keep white for primary elements */
+$success-color: #5B2333 !default;
+$warning-color: #564D4A !default;
+$danger-color: #F24333 !default;
+$info-color: #BA1B1D !default;
 
 /* Syntax highlighting (base16) colors */
 $base00: #fafafa !default;
