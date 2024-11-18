@@ -1,6 +1,6 @@
 # Sample site navigation bar links
 
-- title: Welcome
+- title: "Welcome"
   url: /     
 - title: "Contact"
   url: /contact/
