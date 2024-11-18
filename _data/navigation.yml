@@ -1,12 +1,6 @@
 # Sample site navigation bar links
 
-- title: Home
-  url: /
-- title: About us
-  url: /aboutus/
-- title: Events 
-  url: /events/    
-- title: Members
-  url: /members/      
+- title: Welcome
+  url: /     
 - title: "Contact"
   url: /contact/
